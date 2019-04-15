@@ -1,0 +1,11 @@
+{
+     "android": {
+      "release": {
+        "keystore": "C:\\Users\\lewis6\\source\\progressive\\ITOutage\\ITOutage.keystore",
+        "storePassword": "password123",
+        "alias": "ITOutage",
+        "password": "password123",
+        "keystoreType": ""
+      }
+     }
+ }
